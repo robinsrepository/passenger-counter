@@ -1,4 +1,4 @@
-# Passenger Counting App
+# Passenger Counting App 🚶‍♂️
 
 ## Description
 I started to learn JavaScript on [Scrimba](https://scrimba.com/home) and this is the 1st part of the course.
